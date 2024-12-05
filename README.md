@@ -1,10 +1,4 @@
-# 👨🏽‍💻 André Santos
-
-<br/>
-
-**`Desenvolvedor FullStack`**
-
-Me chamo André de Andrade Santos, eu sou natural de Taubaté, São Paulo. Estou morando atualmente em POrtugal. Concluí o meu Bacharelado em Engenharia de Produção pela Faculdade Anhanguera. Atualmente, estou cursando Desenvolvimento WEB na Tripleten. Estou retomando meus estudos em programaçao. Me siga no "[GitHub](https://github.com/22-andresantos)", onde estou disponibilizando os meus projetos e acompanhar essa jornada.
+<h2 align="center"><strong>👨🏽‍💻 Eu sou o André Santos </strong></h2>
 
 <br/>
 
@@ -12,6 +6,12 @@ Me chamo André de Andrade Santos, eu sou natural de Taubaté, São Paulo. Estou
  <a href="https://discord.gg/QGkX8QhT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/andradesantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<br/>
+
+- 💻 Estudando para ser Dev Full Stack Sênior
+- 🎓 Aluno da TripleTen do Bootcamp de Desenvolvedor Web Full Stack
+- 🏠 Atualmente estou morando em Portugal
 
 <br/>
 
