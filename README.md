@@ -1,4 +1,4 @@
-<h2 align="center"><strong>👨🏽‍💻 Eu sou o André Santos </strong></h2>
+<h2 align="center"><strong> <👨🏽‍💻 Eu sou o André Santos /> </strong></h2>
 
 <br/>
 
