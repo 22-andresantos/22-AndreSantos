@@ -1,4 +1,4 @@
-<h2 align="center"><strong> <👨🏽‍💻 Eu sou o André Santos /> </strong></h2>
+<h2 align="center"><strong> <👨🏽‍💻 André Santos /> </strong></h2>
 
 <br/>
 
@@ -10,7 +10,9 @@
 <br/>
 
 - 💻 Desenvolvedor Web FullStack
+- 👨🏽‍💻 Formação Web Tripleten
 - 🏠 Atualmente estou morando em Portugal
+
 
 <br/>
 
@@ -59,26 +61,26 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<div>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=22-AndreSantos&show_icons=true&theme=tokyonight&=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=22-AndreSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
 
-</div>
+<br/>
+<br/>
+
+
 
