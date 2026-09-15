@@ -9,8 +9,7 @@
 
 <br/>
 
-- 💻 Estudando para ser Dev Full Stack Sênior
-- 🎓 Aluno da TripleTen do Bootcamp de Desenvolvedor Web Full Stack
+- 💻 Desenvolvedor Web FullStack
 - 🏠 Atualmente estou morando em Portugal
 
 <br/>
