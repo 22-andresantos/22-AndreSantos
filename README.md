@@ -1,4 +1,4 @@
-<h2 align="center"><strong> <👨🏽‍💻 André Santos /> </strong></h2>
+<h2 align="center"><strong> <👨🏽‍💻 Olá, sou André Santos /> </strong></h2>
 
 <br/>
 
@@ -9,9 +9,11 @@
 
 <br/>
 
-- 💻 Desenvolvedor Web FullStack
+- 💻 Desenvolvedor Full Stack em transição de carreira, com experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase.
+- 💻 Estou Buscando meu primeiro trabalho como júnior, freelancer ou estágio.
 - 👨🏽‍💻 Formação Web Tripleten
 - 🏠 Atualmente estou morando em Portugal
+
 
 
 <br/>
@@ -80,6 +82,16 @@
 />
 
 <br/>
+
+
+## 📊 Linguagens mais utilizadas
+
+![Linguagens mais utilizadas](https://github-stats-extended.vercel.app/api/top-langs/?username=22-andresantos&layout=compact&theme=transparent&locale=pt-br&langs_count=8)
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=22-andresantos&show_icons=true&theme=transparent&locale=pt-br)
+
 <br/>
 
 
