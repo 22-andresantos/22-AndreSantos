@@ -83,6 +83,8 @@
 
 <br/>
 
+---
+
 
 ## 📊 Linguagens mais utilizadas
 
