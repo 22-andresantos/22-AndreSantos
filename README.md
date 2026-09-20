@@ -9,6 +9,7 @@
 
 <br/>
 
+- 🚀 Projeto Around — aplicação full stack : [https://andrearound.duckdns.org/signin](url)
 - 💻 Desenvolvedor Full Stack em transição de carreira, com experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase.
 - 💻 Estou Buscando meu primeiro trabalho como júnior, freelancer ou estágio.
 - 👨🏽‍💻 Formação Web Tripleten
