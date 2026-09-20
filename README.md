@@ -9,10 +9,20 @@
 
 <br/>
 
-- 🚀 Projeto Around — aplicação full stack : [https://andrearound.duckdns.org/signin](url)
+- 🚀 Projeto Around — aplicação full stack:
+- Objetivo: Desenvolver uma aplicação full stack na qual usuários podem criar uma conta, iniciar sessão, editar o perfil e publicar, curtir ou excluir cartões com imagens.
+
+Tecnologias: React, JavaScript, HTML5, CSS3, Node.js, Express, MongoDB, Mongoose, API REST, JWT, Celebrate/Joi, Winston, Git e GitHub.
+
+Principal insight: Além do desenvolvimento completo do front-end e back-end, o projeto foi publicado em um ambiente real de produção, com servidor Linux/Ubuntu, Nginx, PM2, domínio próprio e certificado HTTPS. Essa experiência permitiu aplicar conhecimentos de desenvolvimento, configuração de servidor, segurança e deploy de uma aplicação completa.
+Projeto Publicado: [https://andrearound.duckdns.org/signin](url)
+
 - 💻 Desenvolvedor Full Stack em transição de carreira, com experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase.
+  
 - 💻 Estou Buscando meu primeiro trabalho como júnior, freelancer ou estágio.
+  
 - 👨🏽‍💻 Formação Web Tripleten
+  
 - 🏠 Atualmente estou morando em Portugal
 
 
