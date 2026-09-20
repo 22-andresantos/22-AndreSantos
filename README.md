@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🚀 Projeto Around — aplicação full stack: [Acessar o News Explorer](https://news-explorer-frontend-eight.vercel.app)
+- 🚀 Projeto Around — aplicação full stack: [Acessar o Around FullSatck](https://andrearound.duckdns.org/signin)
 - Objetivo: Desenvolver uma aplicação full stack na qual usuários podem criar uma conta, iniciar sessão, editar o perfil e publicar, curtir ou excluir cartões com imagens.
 
 Tecnologias: React, JavaScript, HTML5, CSS3, Node.js, Express, MongoDB, Mongoose, API REST, JWT, Celebrate/Joi, Winston, Git e GitHub.
