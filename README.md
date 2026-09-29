@@ -20,18 +20,18 @@ experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase.
 🚀 Projetos em Destaques
 
 - Projeto Around — Aplicação Full Stack: [Acessar o Around FullSatck](https://andrearound.duckdns.org/signin)
-- Objetivo: Desenvolver uma aplicação full stack na qual usuários podem criar uma conta, iniciar sessão, editar o perfil e publicar, curtir ou excluir cartões com imagens.
+Objetivo: Desenvolver uma aplicação full stack na qual usuários podem criar uma conta, iniciar sessão, editar o perfil e publicar, curtir ou excluir cartões com imagens.
 
-- Tecnologias: React, JavaScript, HTML5, CSS3, Node.js, Express, MongoDB, Mongoose, API REST, JWT, Celebrate/Joi, Winston, Git e GitHub.
+Tecnologias: React, JavaScript, HTML5, CSS3, Node.js, Express, MongoDB, Mongoose, API REST, JWT, Celebrate/Joi, Winston, Git e GitHub.
 
-- Principal insight: Além do desenvolvimento completo do front-end e back-end, o projeto foi publicado em um ambiente real de produção, com servidor Linux/Ubuntu, Nginx, PM2, domínio próprio e certificado HTTPS. Essa experiência permitiu aplicar conhecimentos de desenvolvimento, configuração de servidor, segurança e deploy de uma aplicação completa.
+Principal insight: Além do desenvolvimento completo do front-end e back-end, o projeto foi publicado em um ambiente real de produção, com servidor Linux/Ubuntu, Nginx, PM2, domínio próprio e certificado HTTPS. Essa experiência permitiu aplicar conhecimentos de desenvolvimento, configuração de servidor, segurança e deploy de uma aplicação completa.
 
 - News Explorer — Pesquisa e salvamento de notícias : [Acessar o News Explorer](https://news-explorer-frontend-eight.vercel.app/)
-- Objetivo: Desenvolver uma aplicação web responsiva para pesquisar notícias por palavra-chave, consultar artigos recentes e guardar conteúdos para leitura posterior. A interface inclui estados de carregamento, ausência de resultados, tratamento de erros e carregamento incremental pelo botão “Mostrar mais”.
+Objetivo: Desenvolver uma aplicação web responsiva para pesquisar notícias por palavra-chave, consultar artigos recentes e guardar conteúdos para leitura posterior. A interface inclui estados de carregamento, ausência de resultados, tratamento de erros e carregamento incremental pelo botão “Mostrar mais”.
 
-- Tecnologias: React, React Router, JavaScript, JSX, HTML5, CSS3, Vite, Fetch API, News API, LocalStorage, metodologia BEM, ESLint, Git e GitHub.
+Tecnologias: React, React Router, JavaScript, JSX, HTML5, CSS3, Vite, Fetch API, News API, LocalStorage, metodologia BEM, ESLint, Git e GitHub.
   
-- Principal insight: O projeto proporcionou experiência prática com consumo de API externa, requisições assíncronas, gerenciamento de estados e persistência local. A aplicação foi publicada em produção no Vercel, com variável de ambiente para a API, rotas configuradas para uma SPA e deploy automático integrado à branch principal do GitHub.
+Principal insight: O projeto proporcionou experiência prática com consumo de API externa, requisições assíncronas, gerenciamento de estados e persistência local. A aplicação foi publicada em produção no Vercel, com variável de ambiente para a API, rotas configuradas para uma SPA e deploy automático integrado à branch principal do GitHub.
 
 
 
