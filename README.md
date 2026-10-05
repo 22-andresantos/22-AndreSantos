@@ -3,8 +3,8 @@
 
 <br/>
 
-Atualmente estou morando em Portugal, tenho formação em Desenvolvimento Web Full Stack pela Tripleten, Bacharel em Engenharia de Produção,
-experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase.
+Atualmente estou morando em Portugal, tenho formação em Desenvolvimento Web Full Stack pela Tripleten, experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase e Bacharel em Engenharia de Produção.
+.
 
 
 <br/>  
