@@ -21,10 +21,11 @@ Atualmente estou morando em Portugal, tenho formação em Desenvolvimento Web Fu
 
 🚀 Desenvolvedor Web Autônomo
 Stand de carros : Cursino Automóveis
-
+<br/>
 Projeto Publicado: [Acessar o Cursino Automóveis](https://cursino-automoveis.vercel.app/)
+<br/>
 Link do projeto no GitHub: [Acessar o Cursino Automóveis](https://github.com/22-andresantos/Cursino-Automoveis.git)
-
+<br/>
 Descrição da Experiência / Projetos de Engenharia de Software: Desenvolvimento e implementação de aplicação web full stack para gestão de stock e catálogo de veículos, atuando no planejamento técnico e na arquitetura do sistema. Construção de interface responsiva com filtros de busca, integração de mensagens instantâneas e desenvolvimento de painel administrativo protegido por regras de autenticação e controle de acessos (Supabase Auth, RLS). Gestão de banco de dados relacional (PostgreSQL), armazenamento de arquivos e configuração de versionamento de código (Git/GitHub), garantindo o deploy contínuo em produção (Vercel) e otimização de indexação (SEO).
 
 
@@ -35,17 +36,18 @@ Descrição da Experiência / Projetos de Engenharia de Software: Desenvolviment
 🚀 Projetos em Destaques
 
 - Projeto Around — Aplicação Full Stack: [Acessar o Around FullSatck](https://andrearound.duckdns.org/signin)
+  <br/>
 Objetivo: Desenvolver uma aplicação full stack na qual usuários podem criar uma conta, iniciar sessão, editar o perfil e publicar, curtir ou excluir cartões com imagens.
-
+<br/>
 Tecnologias: React, JavaScript, HTML5, CSS3, Node.js, Express, MongoDB, Mongoose, API REST, JWT, Celebrate/Joi, Winston, Git e GitHub.
-
+<br/>
 Principal insight: Além do desenvolvimento completo do front-end e back-end, o projeto foi publicado em um ambiente real de produção, com servidor Linux/Ubuntu, Nginx, PM2, domínio próprio e certificado HTTPS. Essa experiência permitiu aplicar conhecimentos de desenvolvimento, configuração de servidor, segurança e deploy de uma aplicação completa.
-
+<br/>
 - News Explorer — Pesquisa e salvamento de notícias : [Acessar o News Explorer](https://news-explorer-frontend-eight.vercel.app/)
 Objetivo: Desenvolver uma aplicação web responsiva para pesquisar notícias por palavra-chave, consultar artigos recentes e guardar conteúdos para leitura posterior. A interface inclui estados de carregamento, ausência de resultados, tratamento de erros e carregamento incremental pelo botão “Mostrar mais”.
-
+<br/>
 Tecnologias: React, React Router, JavaScript, JSX, HTML5, CSS3, Vite, Fetch API, News API, LocalStorage, metodologia BEM, ESLint, Git e GitHub.
-  
+  <br/>
 Principal insight: O projeto proporcionou experiência prática com consumo de API externa, requisições assíncronas, gerenciamento de estados e persistência local. A aplicação foi publicada em produção no Vercel, com variável de ambiente para a API, rotas configuradas para uma SPA e deploy automático integrado à branch principal do GitHub.
 
 
