@@ -3,8 +3,8 @@
 
 <br/>
 
-Atualmente estou morando em Portugal, tenho formação em Desenvolvimento Web Full Stack pela Tripleten, experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase e Bacharel em Engenharia de Produção.
-.
+Atualmente estou morando em Portugal, tenho formação em Desenvolvimento Web Full Stack pela Tripleten, Desenvolvedor Web Full Stack, como experiência em projetos utilizando React, Node.js, Express, MongoDB e Supabase e Bacharel em Engenharia de Produção.
+
 
 
 <br/>  
@@ -16,6 +16,21 @@ Atualmente estou morando em Portugal, tenho formação em Desenvolvimento Web Fu
 </div>
 
 <br/>
+
+
+
+🚀 Desenvolvedor Web Autônomo
+Stand de carros : Cursino Automóveis
+
+Projeto Publicado: [Acessar o Cursino Automóveis](https://cursino-automoveis.vercel.app/)
+Link do projeto no GitHub: [Acessar o Cursino Automóveis](https://github.com/22-andresantos/Cursino-Automoveis.git)
+
+Descrição da Experiência / Projetos de Engenharia de Software: Desenvolvimento e implementação de aplicação web full stack para gestão de stock e catálogo de veículos, atuando no planejamento técnico e na arquitetura do sistema. Construção de interface responsiva com filtros de busca, integração de mensagens instantâneas e desenvolvimento de painel administrativo protegido por regras de autenticação e controle de acessos (Supabase Auth, RLS). Gestão de banco de dados relacional (PostgreSQL), armazenamento de arquivos e configuração de versionamento de código (Git/GitHub), garantindo o deploy contínuo em produção (Vercel) e otimização de indexação (SEO).
+
+
+<br/>
+
+
 
 🚀 Projetos em Destaques
 
